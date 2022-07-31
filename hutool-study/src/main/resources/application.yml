@@ -1,0 +1,23 @@
+spring:
+  application:
+    name: hutool-study
+  mvc:
+    pathmatch:
+      matching-strategy: ANT_PATH_MATCHER
+server:
+  port: 8081
+
+## 配置数据侧数据库远程连接信息
+#dblinks:
+#  sjcdb:
+#    mysql:
+#      dbType: mysql
+#      ip: 127.0.0.1
+#      port: 3306
+#      driverClassName: com.mysql.cj.jdbc.Driver
+#      database: mybatisdemo
+#      username: root
+#      password: root
+#      timeOut: 30
+#      url: jdbc:mysql://${dblinks.sjcdb.mysql.ip}:${dblinks.sjcdb.mysql.port}/${dblinks.sjcdb.mysql.database}
+
