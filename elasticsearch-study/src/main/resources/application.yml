@@ -1,0 +1,10 @@
+server:
+  port: 8082
+
+#查询配置
+snat-es-config:
+  indexes: sq_*
+  esIp: 127.0.0.1
+  esPort: 9200
+  username: admin
+  password: admin

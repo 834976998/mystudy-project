@@ -20,6 +20,7 @@
     <modules>
         <module>hutool-study</module>
         <module>design-model-study</module>
+        <module>elasticsearch-study</module>
     </modules>
     <dependencies>
         <dependency>
