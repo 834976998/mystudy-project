@@ -11,7 +11,7 @@ package com.wit.wafon.designmodelstudy.m_b_factorymethod.positive;
  */
 
 //============================== 客户端 =====================================
-public class SimpleFactoryPAppTest {
+public class FactoryMethodAppTest {
 
     public static void main(String[] args) {
         FoodFactory foodFactory = new RiceNoodleFactory();
