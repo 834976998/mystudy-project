@@ -1,4 +1,4 @@
-package com.wit.wafon.designmodelstudy.m_template.b_template;
+package com.wit.wafon.designmodelstudy.m_g_template.b_template;
 
 
 import org.springframework.util.StopWatch;

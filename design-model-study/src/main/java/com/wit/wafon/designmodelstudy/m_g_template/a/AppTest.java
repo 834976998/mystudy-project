@@ -1,4 +1,4 @@
-package com.wit.wafon.designmodelstudy.m_template.a;
+package com.wit.wafon.designmodelstudy.m_g_template.a;
 
 
 import org.apache.commons.lang3.time.StopWatch;
