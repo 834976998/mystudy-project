@@ -45,6 +45,9 @@ package com.wit.wafon.designmodelstudy.m_i_strategy.d;
  *              2.运行时可以修改类的行为方式（游戏中角色获取技能）
  *              3.符合开闭原则，行为方式拓展开放
  *
+ *           缺点：
+ *              1.每一种策略都需要建成一个类
+ *
  *
  */
 public class StrategyModelTest {
