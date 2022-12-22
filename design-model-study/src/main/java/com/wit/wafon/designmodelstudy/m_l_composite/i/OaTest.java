@@ -39,10 +39,6 @@ public class OaTest {
         whdata.add(zxj);
         whdata.add(jfq);
 
-        DepartmentComponent d =  iflytek.getByNo(2);
-        d.print("");
-
-        System.out.println("===============");
         iflytek.print("");
     }
 
